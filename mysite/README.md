@@ -1,3 +1,0 @@
-# DjangoDemo
-
-How Django works
